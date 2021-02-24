@@ -1,0 +1,242 @@
+a:link{
+    text-decoration:none; 
+
+}
+
+/* Inicio Header */
+.navbar-header{
+    background: #d8cd00;
+}
+.container-header{
+     display:flex; 
+     justify-content: space-between;
+     align-items: center;
+
+}
+.logo-header{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding: auto;
+   margin-top: 20px;
+   margin-bottom: 20px;
+}
+
+.binoculo-header{
+    width: 34px;
+    height: 35px;
+}
+
+.logo-header h1{
+    font-size: 18px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.sociais-icon{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+}
+/* Fim Header */
+.master-class{
+    background-image: url(./img/fundo-preto.png);
+}
+
+.img-binoculars img{
+    width: 73px;
+    height: 65px;
+}
+
+.master-class-text p{
+    color: #ffffff;
+    font-weight: 12px;
+    text-align: center;
+}
+.master-class-text h2{
+    font-weight: bold;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+.master-class-conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.master-class-text{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-explore{
+    background-color: #d8cd00;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 15px;
+    text-transform: uppercase;
+    width: 240px;
+    height: 40px;
+    border: 8px solid #d8cd00;
+    border-radius: 8px;
+    
+}
+
+.img-boll{
+    width: 20px;
+    height: 20px;
+    background: #d8cd00;
+    border-radius: 100px;
+}
+
+.dont-forget-conteudo h2{
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+
+}
+
+.dont-forget-conteudo p{
+    text-align: center;
+    color: #cccccc;
+    font-size: 12px;
+}
+
+.dont-forget{
+    background: #ffffff;
+    border-radius: 25px;
+    border: 1px solid #cccccc;
+    box-shadow: 0 8px 6px -6px #cccccc;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btn-start{
+    color: #ffffff;
+    background: #d8cd00;
+    border: 1px solid #d8cd00;
+    border-radius: 8px;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+    width: 120px;
+    height: 30px;
+}
+
+.btn-join{
+    border-radius: 8px;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+    width: 120px;
+    height: 30px;
+    color:#d8cd00;
+    background:  #ffffff;
+    border: 1px solid #d8cd00;
+}
+
+.master-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.master-center-conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.class-final img{
+    width: 130px;
+    height: 130px;
+    
+}
+
+.class-final{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #d8cd00;
+   
+}
+
+.class-conteudo-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; margin-top: -57px;
+}
+
+.class-conteudo-1 p{
+    text-align: center;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.class-conteudo-1 h3{
+    font-size: 12px;
+    color: #ffffff;
+    font-weight: bold;
+    
+}
+
+.btn-see{
+    background: #d8cd00;
+    border: 2px solid #ffffff ;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 12px;
+    height: 25px;
+    width: 80px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #141414;
+}
+
+.div-footer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.footer p, .footer span, .footer a{
+    color:#ffffff;
+    font-size: 12px;
+}
+
+.footer h4{
+    color: #d8cd00;
+}
+
+address p{
+    margin-bottom: 0px;
+}
+
+.sra{
+    display: flex;
+    flex-direction: column;
+}
+#span-style{
+    padding-bottom: 20px;
+}
+
+.follow-styles{
+    margin-bottom: 18px;
+    margin-top: 10px;
+}
